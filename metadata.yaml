@@ -1,11 +1,16 @@
 _repo: Ulkokullattu-b-1-naytoksinen-ilveily_72285
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ruotsalo, S. A.
     gutenberg_agent_id: '56630'
     url: http://www.gutenberg.org/2009/agents/56630
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72285#Ulkokullattu-b-1-naytoksinen-ilveily
 gutenberg_issued: '2023-12-02'
 identifiers:
   gutenberg: '72285'
